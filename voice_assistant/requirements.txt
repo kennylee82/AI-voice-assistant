@@ -1,0 +1,8 @@
+openai>=1.68.0
+elevenlabs>=2.72.0,<3
+websockets>=13.1
+sounddevice>=0.5.1
+numpy>=2.0.0
+httpx>=0.27.2
+python-dotenv>=1.0.1
+tiktoken>=0.8.0
